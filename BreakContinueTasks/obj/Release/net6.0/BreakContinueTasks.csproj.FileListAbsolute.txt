@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/bin/Release/net6.0/BreakContinueTasks
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/bin/Release/net6.0/BreakContinueTasks.deps.json
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/bin/Release/net6.0/BreakContinueTasks.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/bin/Release/net6.0/BreakContinueTasks.dll
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/bin/Release/net6.0/BreakContinueTasks.pdb
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/BreakContinueTasks.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/BreakContinueTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/BreakContinueTasks.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/BreakContinueTasks.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/BreakContinueTasks.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/BreakContinueTasks.dll
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/refint/BreakContinueTasks.dll
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/BreakContinueTasks.pdb
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/BreakContinueTasks.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/BreakContinueTasks/BreakContinueTasks/obj/Release/net6.0/ref/BreakContinueTasks.dll
